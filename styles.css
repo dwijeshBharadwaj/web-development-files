@@ -1,16 +1,19 @@
-  body {
-    background-color: #F9F7F7;
-  }
-  hr{
-    border-style: dotted;
-    border-top: none;
-    border-color: grey;
-    border-width: 5px;
-    width: 5%;
-  }
-  h1 {
-    color:#66BFBF;
-  }
-  h3{
-    color: #66BFBF;
-  }
+h1{
+  color:red;
+  font-size: 200px;
+}
+/*img{
+  background-color: blue;
+  transform: rotate(10deg);
+}
+*/
+
+/*******************CLASS SELECTORS****************/
+
+.mango {
+  background-color: green;
+}
+
+.apple {
+  background-color: red;
+}
