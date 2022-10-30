@@ -1,0 +1,25 @@
+h1{
+  color:red;
+  font-size: 200px;
+}
+img:hover{
+  background-color: gold;
+}
+
+
+/*******************CLASS SELECTORS it overrides the background color in image tag****************/
+
+.mango {
+  background-color: green;
+}
+
+.apple {
+  background-color: red;
+}
+/*******************ID SELECTORS this will override the tag h1 in the color section****************/
+#heading{
+  color:blue;
+}
+.circular{
+  border-radius: 100%;
+}
